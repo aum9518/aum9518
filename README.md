@@ -2,12 +2,11 @@
 
 - 🔭 I’m currently working on Java developer
 - 🌱 I’m currently learning Docker
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on exciting projects and startups
+- 🤔 I’m looking for help with ambitious people
+- 💬 Ask me about anything you want to know
+- 📫 How to reach me: https://linktr.ee/abduganiuulu_manas
+- ⚡ Fun fact: I am too handsome ☺️
 ### :toolbox: Languages and Tools:
 <img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://javabeat.net/wp-content/uploads/2015/06/spring-logo.png" />
 <img align="left" alt="FireBase" width="40px" style="padding-right:10px;" src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-l.cdn.bubble.io%2Ff1678214001507x239515035225292830%2F1_ti5CnGh_T4Kqy5aCTLJRcg.png?w=&h=&auto=compress&dpr=1&fit=max" />
@@ -24,6 +23,6 @@
 <br>
 <br>
 Connect with me:<br>
-<img align="left" alt=" | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" />
+<img align="left" alt=" | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" />  
 <img align="left" alt=" | Instagram" width="40px" src="https://static.vecteezy.com/system/resources/previews/023/986/555/original/instagram-logo-instagram-logo-transparent-instagram-icon-transparent-free-free-png.png" />
 
